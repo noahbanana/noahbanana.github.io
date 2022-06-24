@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "css",
+			"path": "css"
+		},
+		{
+			"name": "Nouveau dossier",
+			"path": "Nouveau dossier"
+		},
+		{
+			"name": "media",
+			"path": "media"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "css"
+	}
+}
